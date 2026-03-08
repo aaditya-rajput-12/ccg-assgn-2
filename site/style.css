@@ -1,0 +1,47 @@
+body{
+font-family: Arial;
+margin:0;
+background:#f4f4f4;
+}
+
+header{
+background:#333;
+color:white;
+text-align:center;
+padding:20px;
+}
+
+nav{
+background:#555;
+text-align:center;
+padding:10px;
+}
+
+nav a{
+color:white;
+margin:10px;
+text-decoration:none;
+}
+
+.content{
+display:flex;
+justify-content:center;
+flex-wrap:wrap;
+padding:20px;
+}
+
+.card{
+background:white;
+border:1px solid #ddd;
+padding:20px;
+margin:10px;
+width:200px;
+text-align:center;
+}
+
+footer{
+background:#333;
+color:white;
+text-align:center;
+padding:10px;
+}
